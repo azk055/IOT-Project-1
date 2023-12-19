@@ -1,0 +1,22 @@
+2023-11-17 23:35:18,267 # Connect to serial port /dev/ttyACM0
+2023-11-17 23:35:18,267 # could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2023-11-17 23:36:58,121 # Connect to serial port /dev/ttyACM0
+2023-11-17 23:36:58,121 # could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2023-11-17 23:37:08,694 # Connect to serial port /dev/ttyACM0
+2023-11-17 23:37:08,694 # could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2023-11-17 23:41:06,750 # Connect to serial port /dev/ttyUSB0
+2023-11-17 23:41:06,750 # could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+2023-11-17 23:53:46,530 # Connect to serial port /dev/ttyACM0
+2023-11-17 23:53:46,530 # could not open port /dev/ttyACM0: [Errno 2] No such file or directory: '/dev/ttyACM0'
+2023-12-13 00:17:52,402 # Connect to serial port /dev/ttyUSB1
+2023-12-13 00:17:52,402 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2023-12-13 02:04:43,028 # Connect to serial port /dev/ttyUSB1
+2023-12-13 02:04:43,029 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2023-12-13 02:05:04,838 # Connect to serial port /dev/ttyUSB1
+2023-12-13 02:05:04,839 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2023-12-13 02:06:01,537 # Connect to serial port /dev/ttyUSB1
+2023-12-13 02:06:01,537 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2023-12-13 02:08:06,594 # Connect to serial port /dev/ttyUSB1
+2023-12-13 02:08:06,594 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'
+2023-12-14 21:33:15,177 # Connect to serial port /dev/ttyUSB1
+2023-12-14 21:33:15,178 # could not open port /dev/ttyUSB1: [Errno 2] No such file or directory: '/dev/ttyUSB1'

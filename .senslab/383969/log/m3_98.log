@@ -1,0 +1,28 @@
+2023-11-17 22:40:54,425 :: INFO :: Start experiment: iot2023oulu11-383969
+2023-11-17 22:40:54,429 :: INFO :: Control node : Starting of control node serial interface
+2023-11-17 22:40:54,432 :: INFO :: Control node : reset
+2023-11-17 22:40:54,435 :: INFO :: Reset Control Node
+2023-11-17 22:40:57,230 :: INFO :: Control node : start power of open node
+2023-11-17 22:40:57,248 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-11-17 22:41:00,262 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-17 22:41:00,267 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-11-17 22:41:02,415 :: INFO :: Control node : Start experiment
+2023-11-17 22:41:02,485 :: INFO :: Control Node set time delay: 8340 us
+2023-11-17 22:41:02,511 :: INFO :: Control node : profile configuration
+2023-11-17 22:41:02,515 :: INFO :: Configure profile on Control Node
+2023-11-17 22:41:02,580 :: INFO :: Start experiment succeeded
+2023-11-17 22:55:03,787 :: INFO :: Gateway Manager : Stop experiment
+2023-11-17 22:55:03,792 :: INFO :: Stop experiment
+2023-11-17 22:55:03,796 :: INFO :: Control node : stop of the experiment
+2023-11-17 22:55:03,801 :: INFO :: Control node : profile configuration
+2023-11-17 22:55:03,805 :: INFO :: Configure profile on Control Node
+2023-11-17 22:55:03,850 :: INFO :: Control node : start power of open node
+2023-11-17 22:55:03,882 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-11-17 22:55:06,897 :: INFO :: openocd node debugger stop
+2023-11-17 22:55:07,517 :: INFO :: Node OpenOCD: flash of openocd node
+2023-11-17 22:55:07,521 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-11-17 22:55:09,666 :: INFO :: Control node : Stop control node serial interface
+2023-11-17 22:55:09,671 :: INFO :: Control node : stop power of open node
+2023-11-17 22:55:09,710 :: INFO :: Control node : reset
+2023-11-17 22:55:09,713 :: INFO :: Reset Control Node
+2023-11-17 22:55:12,454 :: INFO :: Stop experiment succeeded

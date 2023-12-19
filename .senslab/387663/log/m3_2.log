@@ -1,0 +1,28 @@
+2023-12-13 00:40:44,457 :: INFO :: Start experiment: iot2023oulu11-387663
+2023-12-13 00:40:44,461 :: INFO :: Control node : Starting of control node serial interface
+2023-12-13 00:40:44,464 :: INFO :: Control node : reset
+2023-12-13 00:40:44,467 :: INFO :: Reset Control Node
+2023-12-13 00:40:47,267 :: INFO :: Control node : start power of open node
+2023-12-13 00:40:47,284 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-13 00:40:50,299 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-13 00:40:50,304 :: INFO :: Flash firmware on OpenOCD: /tmp/tmps7r3la_j--d488d67b4609bce0fceb301259dd04f9_temperature_sensor.elf
+2023-12-13 00:40:52,806 :: INFO :: Control node : Start experiment
+2023-12-13 00:40:52,867 :: INFO :: Control Node set time delay: 5196 us
+2023-12-13 00:40:52,900 :: INFO :: Control node : profile configuration
+2023-12-13 00:40:52,912 :: INFO :: Configure profile on Control Node
+2023-12-13 00:40:52,969 :: INFO :: Start experiment succeeded
+2023-12-13 02:40:57,315 :: INFO :: Gateway Manager : Stop experiment
+2023-12-13 02:40:57,321 :: INFO :: Stop experiment
+2023-12-13 02:40:57,325 :: INFO :: Control node : stop of the experiment
+2023-12-13 02:40:57,330 :: INFO :: Control node : profile configuration
+2023-12-13 02:40:57,334 :: INFO :: Configure profile on Control Node
+2023-12-13 02:40:57,385 :: INFO :: Control node : start power of open node
+2023-12-13 02:40:57,417 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-13 02:41:00,431 :: INFO :: openocd node debugger stop
+2023-12-13 02:41:01,052 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-13 02:41:01,056 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-13 02:41:03,204 :: INFO :: Control node : Stop control node serial interface
+2023-12-13 02:41:03,208 :: INFO :: Control node : stop power of open node
+2023-12-13 02:41:03,246 :: INFO :: Control node : reset
+2023-12-13 02:41:03,249 :: INFO :: Reset Control Node
+2023-12-13 02:41:05,992 :: INFO :: Stop experiment succeeded

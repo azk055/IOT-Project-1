@@ -1,0 +1,28 @@
+2023-12-18 17:24:30,564 :: INFO :: Start experiment: iot2023oulu11-388164
+2023-12-18 17:24:30,568 :: INFO :: Control node : Starting of control node serial interface
+2023-12-18 17:24:30,571 :: INFO :: Control node : reset
+2023-12-18 17:24:30,574 :: INFO :: Reset Control Node
+2023-12-18 17:24:33,371 :: INFO :: Control node : start power of open node
+2023-12-18 17:24:33,388 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-18 17:24:36,403 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-18 17:24:36,408 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpoviy5w8u--d488d67b4609bce0fceb301259dd04f9_temperature_sensor.elf
+2023-12-18 17:24:38,910 :: INFO :: Control node : Start experiment
+2023-12-18 17:24:38,987 :: INFO :: Control Node set time delay: 8189 us
+2023-12-18 17:24:39,017 :: INFO :: Control node : profile configuration
+2023-12-18 17:24:39,021 :: INFO :: Configure profile on Control Node
+2023-12-18 17:24:39,073 :: INFO :: Start experiment succeeded
+2023-12-18 19:16:33,691 :: INFO :: Gateway Manager : Stop experiment
+2023-12-18 19:16:33,697 :: INFO :: Stop experiment
+2023-12-18 19:16:33,701 :: INFO :: Control node : stop of the experiment
+2023-12-18 19:16:33,706 :: INFO :: Control node : profile configuration
+2023-12-18 19:16:33,709 :: INFO :: Configure profile on Control Node
+2023-12-18 19:16:33,765 :: INFO :: Control node : start power of open node
+2023-12-18 19:16:33,797 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-18 19:16:36,811 :: INFO :: openocd node debugger stop
+2023-12-18 19:16:37,432 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-18 19:16:37,435 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-18 19:16:39,581 :: INFO :: Control node : Stop control node serial interface
+2023-12-18 19:16:39,586 :: INFO :: Control node : stop power of open node
+2023-12-18 19:16:39,626 :: INFO :: Control node : reset
+2023-12-18 19:16:39,630 :: INFO :: Reset Control Node
+2023-12-18 19:16:42,370 :: INFO :: Stop experiment succeeded

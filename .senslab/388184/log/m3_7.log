@@ -1,0 +1,28 @@
+2023-12-18 19:47:16,103 :: INFO :: Start experiment: iot2023oulu11-388184
+2023-12-18 19:47:16,107 :: INFO :: Control node : Starting of control node serial interface
+2023-12-18 19:47:16,110 :: INFO :: Control node : reset
+2023-12-18 19:47:16,113 :: INFO :: Reset Control Node
+2023-12-18 19:47:18,908 :: INFO :: Control node : start power of open node
+2023-12-18 19:47:18,929 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-18 19:47:21,944 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-18 19:47:21,950 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpj876pax8--34dc33ada4342a1a145b9b65ede4e392_gnrc_border_router.elf
+2023-12-18 19:47:28,285 :: INFO :: Control node : Start experiment
+2023-12-18 19:47:28,352 :: INFO :: Control Node set time delay: 6093 us
+2023-12-18 19:47:28,385 :: INFO :: Control node : profile configuration
+2023-12-18 19:47:28,398 :: INFO :: Configure profile on Control Node
+2023-12-18 19:47:28,454 :: INFO :: Start experiment succeeded
+2023-12-18 20:47:32,786 :: INFO :: Gateway Manager : Stop experiment
+2023-12-18 20:47:32,807 :: INFO :: Stop experiment
+2023-12-18 20:47:32,811 :: INFO :: Control node : stop of the experiment
+2023-12-18 20:47:32,816 :: INFO :: Control node : profile configuration
+2023-12-18 20:47:32,819 :: INFO :: Configure profile on Control Node
+2023-12-18 20:47:32,878 :: INFO :: Control node : start power of open node
+2023-12-18 20:47:32,910 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-18 20:47:35,924 :: INFO :: openocd node debugger stop
+2023-12-18 20:47:36,545 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-18 20:47:36,548 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-18 20:47:38,694 :: INFO :: Control node : Stop control node serial interface
+2023-12-18 20:47:38,699 :: INFO :: Control node : stop power of open node
+2023-12-18 20:47:38,738 :: INFO :: Control node : reset
+2023-12-18 20:47:38,741 :: INFO :: Reset Control Node
+2023-12-18 20:47:41,479 :: INFO :: Stop experiment succeeded

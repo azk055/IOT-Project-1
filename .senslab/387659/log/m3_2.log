@@ -1,0 +1,28 @@
+2023-12-13 00:21:37,276 :: INFO :: Start experiment: iot2023oulu11-387659
+2023-12-13 00:21:37,280 :: INFO :: Control node : Starting of control node serial interface
+2023-12-13 00:21:37,284 :: INFO :: Control node : reset
+2023-12-13 00:21:37,287 :: INFO :: Reset Control Node
+2023-12-13 00:21:40,083 :: INFO :: Control node : start power of open node
+2023-12-13 00:21:40,103 :: INFO :: Node OpenOCD: Setup of openocd node
+2023-12-13 00:21:43,118 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-13 00:21:43,123 :: INFO :: Flash firmware on OpenOCD: /tmp/tmpabcf3asq--d488d67b4609bce0fceb301259dd04f9_temperature_sensor.elf
+2023-12-13 00:21:45,626 :: INFO :: Control node : Start experiment
+2023-12-13 00:21:45,686 :: INFO :: Control Node set time delay: 1161 us
+2023-12-13 00:21:45,711 :: INFO :: Control node : profile configuration
+2023-12-13 00:21:45,724 :: INFO :: Configure profile on Control Node
+2023-12-13 00:21:45,788 :: INFO :: Start experiment succeeded
+2023-12-13 00:25:18,717 :: INFO :: Gateway Manager : Stop experiment
+2023-12-13 00:25:18,722 :: INFO :: Stop experiment
+2023-12-13 00:25:18,726 :: INFO :: Control node : stop of the experiment
+2023-12-13 00:25:18,731 :: INFO :: Control node : profile configuration
+2023-12-13 00:25:18,734 :: INFO :: Configure profile on Control Node
+2023-12-13 00:25:18,789 :: INFO :: Control node : start power of open node
+2023-12-13 00:25:18,821 :: INFO :: Node OpenOCD: teardown of openocd node
+2023-12-13 00:25:21,836 :: INFO :: openocd node debugger stop
+2023-12-13 00:25:22,457 :: INFO :: Node OpenOCD: flash of openocd node
+2023-12-13 00:25:22,460 :: INFO :: Flash firmware on OpenOCD: /usr/lib/python3.8/site-packages/gateway_code/static/m3_idle.elf
+2023-12-13 00:25:24,606 :: INFO :: Control node : Stop control node serial interface
+2023-12-13 00:25:24,611 :: INFO :: Control node : stop power of open node
+2023-12-13 00:25:24,650 :: INFO :: Control node : reset
+2023-12-13 00:25:24,654 :: INFO :: Reset Control Node
+2023-12-13 00:25:27,394 :: INFO :: Stop experiment succeeded
