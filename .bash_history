@@ -1118,3 +1118,34 @@ chmod +rx .vscode-server/extensions/ms-vscode.cpptools-1.18.5-linux-x64/LLVM/bin
 sudo ls -l .vscode-server/extensions/ms-vscode.cpptools-1.18.5-linux-x64/LLVM/bin/clang-tidy
 clear
 git init
+git init 
+git add .
+git push master
+git push
+git push origin master
+rm -rf .git
+git init 
+git add .
+git status
+git commit
+git commit -m"updated iot project"
+git push
+git push origin master
+git remote add origin https://github.com/azk055/IOT-Project-1.git
+git push
+git push origin master
+ls
+cd Coap
+make
+source /opt/riot.source
+make
+ls
+exit
+git init 
+git commit 
+git commit all master
+cd //
+git init
+git init 
+ls
+exit
