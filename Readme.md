@@ -6,6 +6,13 @@ In order to check more about sensor you can check the link https://www.iot-lab.i
 During this task Grenoble architecture is used. 
 
 
+# initializing the Testbed:
+To initialize the testbed, Use visual studio ot the Windows Power Shell:
+Bash 
+ssh iot2023oulu11@grenoble.iot-lab.info
+``````
+
+
 
 ## Flashing the Firmware on sensor nodes
 
@@ -120,7 +127,7 @@ ifconfig
 
 nc m3-6 20000
 ``````
-``````
+
 ifconfig
 ``````
 
@@ -131,38 +138,34 @@ sudo ethos_uhcpd.py m3-7 tap0 2001:660:3207:04c1::1/64
 ``````
 
 
-Here's the link of the uploaded video on youtube: 
-https://www.youtube.com/watch?v=2O6R2AHsGgo&t=628s
-
-
 
 ## IOT Project 1 -
-
+``````
 ## Adding Git Repository:
+``````
 
 ### Clone the remote repository:
 TH he remote link is  https://github.com/azk055/IOT-Project-1.git
 
 
-## Initialize a new Git repository -
-
+## Initialize a new Git repository:
 git init 
 ```````
-Add all files to the repository:
 
+## Add all files to the repository:
 git add .
 ```````
 
-Checking Git status: 
+## Checking Git status: 
 git status
 ``````` 
-Committing the files :
+## Committing the files :
 git commit
 ``````` 
-Updating the iot project 
+## Updating the iot project :
 git commit -m"updated iot project"
 ```````
-Pusing it to the master
+## Pusing it to the master:
 git push origin master 
 ```````
 
