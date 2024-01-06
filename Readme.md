@@ -136,7 +136,7 @@ https://www.youtube.com/watch?v=2O6R2AHsGgo&t=628s
 
 
 
-# IOT-Project-1
+## IOT Project 1 -
 
 ## Adding Git Repository:
 
@@ -144,10 +144,12 @@ https://www.youtube.com/watch?v=2O6R2AHsGgo&t=628s
 TH he remote link is  https://github.com/azk055/IOT-Project-1.git
 
 
-Initialize a new Git repository:
+## Initialize a new Git repository -
+
 git init 
 ```````
 Add all files to the repository:
+
 git add .
 ```````
 
