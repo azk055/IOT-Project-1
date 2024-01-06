@@ -165,7 +165,7 @@ git commit
 ## Updating the iot project :
 git commit -m"updated iot project"
 ```````
-## Pusing it to the master:
+### Pusing it to the master:
 git push origin master 
 ```````
 
