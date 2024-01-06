@@ -1149,3 +1149,42 @@ git init
 git init 
 ls
 exit
+ls
+git init 
+git commit 
+git status
+git push origin master
+clear
+ls
+clear
+git init
+git add .
+git status
+git commit
+git commit -m"updated iot project"
+git push origin master
+git init 
+git add .
+git commit -m"updated iot project"
+git push origin master
+git init
+git add .
+git commit -m"updated iot project"
+git push origin master
+clear
+git init 
+git add .
+git status
+git add .
+git status
+git commit -m"updated iot project"
+git push origin master 
+clear
+git init 
+git add. 
+git add .
+git status
+git add .
+git status 
+git commit -m"updated iot project"
+git push origin master 

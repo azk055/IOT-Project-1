@@ -144,28 +144,35 @@ sudo ethos_uhcpd.py m3-7 tap0 2001:660:3207:04c1::1/64
 ## Adding Git Repository:
 ``````
 
-### Clone the remote repository:
-TH he remote link is  https://github.com/azk055/IOT-Project-1.git
+## Clone the remote repository:
+``````
+The remote link is  https://github.com/azk055/IOT-Project-1.git
 
 
 ## Initialize a new Git repository:
+
 git init 
-```````
+
 
 ## Add all files to the repository:
-git add .
 ```````
+git add .
+
 
 ## Checking Git status: 
+```````
 git status
 ``````` 
 ## Committing the files :
 git commit
-``````` 
-## Updating the iot project :
-git commit -m"updated iot project"
-```````
-### Pusing it to the master:
-git push origin master 
-```````
 
+## Updating the iot project :
+```````
+git commit -m"updated iot project"
+
+### Pusing it to the master:
+
+git push origin master 
+
+The youtube video of the link is shown below:
+https://youtu.be/Zv9l86OgPb8?si=bIS8idNvvGU90k9l
