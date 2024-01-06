@@ -8,10 +8,9 @@ During this task Grenoble architecture is used.
 
 # Initializing the Testbed:
 
-To initialize the testbed, Use visual studio ot the Windows Power Shell:
+To initialize the testbed, Use Visual Studio or the Windows Power Shell:
 
-Bash 
-ssh iot2023oulu11@grenoble.iot-lab.info
+Bash $  ssh iot2023oulu11@grenoble.iot-lab.info
 
 
 
