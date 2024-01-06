@@ -6,15 +6,18 @@ In order to check more about sensor you can check the link https://www.iot-lab.i
 During this task Grenoble architecture is used. 
 
 
-# initializing the Testbed:
+# Initializing the Testbed:
+
 To initialize the testbed, Use visual studio ot the Windows Power Shell:
+
 Bash 
 ssh iot2023oulu11@grenoble.iot-lab.info
-``````
+
 
 
 
 ## Flashing the Firmware on sensor nodes
+``````
 
 In this task two nodes are used. The numbering of the node depends on the availability.
 
